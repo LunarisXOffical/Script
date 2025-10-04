@@ -1,9 +1,2 @@
-local function Credits()
-    -- Credits: @Stefan created https://junkie-development.de/
-    -- Credits: @Nakhun12309 Made stuff.
-    -- Credits: @wxyz Community Manager
-end
-
-Credits()
-
-loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/d1844496f7d873d687e5f8eee91ede132b24dc84579b060d4394496e62c112f7/download"))()
+-- nice try.
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/26a195ec6b6ad80765b95d2ce00cd8be4274ea765ffde5935d239beeecc28dc9/download"))()
