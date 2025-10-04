@@ -1,8 +1,8 @@
 -- Credits: @Stefan created https://junkie-development.de/
 -- Credits: @Nakhun12309 Made stuff.
 -- Credits: @wxyz Community Manager
-print("Credits: @Stefan created https://junkie-development.de/")
-print("Credits: @Nakhun12309 Made stuff.")
+print("Credits: @Stefan created https://junkie-development.de/ :D")
+print("Credits: @Nakhun12309 Made stuff")
 print("Credits: @wxyz Community Manager")
 
   -- Begin
